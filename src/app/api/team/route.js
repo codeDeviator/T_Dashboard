@@ -98,7 +98,7 @@ let teamMembers = [
   id: 14,
   name: 'Kaka',
   role: 'Operations Coordinator',
-  bio: 'Wang coordinates daily operations to ensure efficiency and productivity.'
+  bio: 'Wang coordinates daily operations to ensure efficiency and productivity.',
     tasks: [] // Empty tasks for now
 },
 {
