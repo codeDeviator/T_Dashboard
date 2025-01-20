@@ -39,7 +39,7 @@ let teamMembers = [
     }
   ];
   
-  export async function GET(req) {
+  export async function GET() {
     return new Response(JSON.stringify(teamMembers), { status: 200 });
   }
   
